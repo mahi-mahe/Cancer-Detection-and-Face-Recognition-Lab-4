@@ -72,16 +72,6 @@ pip install tensorflow opencv-python numpy matplotlib seaborn scikit-learn tqdm
 
 ---
 
-## 📂 Repository Structure
-```
-├── facenet_lab.py          # Facial recognition lab code
-├── medical_image_lab.py    # Medical image analysis lab code
-├── dataset/                # Placeholder for datasets
-└── README.md               # Documentation
-```
-
----
-
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
